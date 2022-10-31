@@ -1,4 +1,5 @@
 ﻿using Newtonsoft.Json.Linq;
+using System.Net;
 
 namespace HoleCounterV1
 {
@@ -9,10 +10,9 @@ namespace HoleCounterV1
             int count = 0;
             string table;
 
-
             if (!File.Exists("table.json"))
             {
-
+                DownloadTable();
             }
 
             using (var stream = new StreamReader("table.json"))
@@ -30,6 +30,12 @@ namespace HoleCounterV1
             }
 
             return count;
+        }
+
+        private void DownloadTable()
+        {
+            var web = new WebClient();
+            web.DownloadFile("https://raw.githubusercontent.com/MrOkun/HoleCounter/main/HoleCounterV1/table.json", "table.json");
         }
     }
 }
