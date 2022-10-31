@@ -1,0 +1,12 @@
+C:\Users\User\source\repos\HoleCounterV1\HoleCounterV1\bin\Debug\net6.0\HoleCounterV1.deps.json
+C:\Users\User\source\repos\HoleCounterV1\HoleCounterV1\bin\Debug\net6.0\HoleCounterV1.dll
+C:\Users\User\source\repos\HoleCounterV1\HoleCounterV1\bin\Debug\net6.0\HoleCounterV1.pdb
+C:\Users\User\source\repos\HoleCounterV1\HoleCounterV1\obj\Debug\net6.0\HoleCounterV1.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\HoleCounterV1\HoleCounterV1\obj\Debug\net6.0\HoleCounterV1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\HoleCounterV1\HoleCounterV1\obj\Debug\net6.0\HoleCounterV1.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\HoleCounterV1\HoleCounterV1\obj\Debug\net6.0\HoleCounterV1.AssemblyInfo.cs
+C:\Users\User\source\repos\HoleCounterV1\HoleCounterV1\obj\Debug\net6.0\HoleCounterV1.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\HoleCounterV1\HoleCounterV1\obj\Debug\net6.0\HoleCounterV1.dll
+C:\Users\User\source\repos\HoleCounterV1\HoleCounterV1\obj\Debug\net6.0\refint\HoleCounterV1.dll
+C:\Users\User\source\repos\HoleCounterV1\HoleCounterV1\obj\Debug\net6.0\HoleCounterV1.pdb
+C:\Users\User\source\repos\HoleCounterV1\HoleCounterV1\obj\Debug\net6.0\ref\HoleCounterV1.dll
